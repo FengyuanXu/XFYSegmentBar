@@ -1,0 +1,6 @@
+framework module XFYSegmentBar {
+  umbrella header "XFYSegmentBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

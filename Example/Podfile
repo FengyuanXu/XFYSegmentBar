@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XFYSegmentBar_Example' do
+  pod 'XFYSegmentBar', :path => '../'
+
+  target 'XFYSegmentBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "XFYSegmentBar",
+  "version": "0.1.0",
+  "summary": "A short description of XFYSegmentBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xufengyuan@vip.qq.com/XFYSegmentBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xufengyuan@vip.qq.com": "xufengyuan@vip.qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xufengyuan@vip.qq.com/XFYSegmentBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XFYSegmentBar/Classes/**/*"
+}

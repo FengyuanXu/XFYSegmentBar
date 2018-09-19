@@ -1,0 +1,16 @@
+PODS:
+  - XFYSegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - XFYSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  XFYSegmentBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XFYSegmentBar: 7108618fc45dacc9b35eccc3a31dac6f0cb425e6
+
+PODFILE CHECKSUM: 8ae2b026748df99112673e54eddb74c0383913aa
+
+COCOAPODS: 1.4.0
